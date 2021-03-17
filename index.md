@@ -28,7 +28,7 @@ Further to the point, imagine some divine existence one day you were given the g
 
 Data sets in a similar way, come in all shapes, sizes and forms - or formats as we'll call them. While all brilliant are in their own right, some formats are more useful than others based on our investigative needs. There is a vast array of data formats which, when used effectively can help our investigation become more robust and systematic. 
 
-The first key focus of this program will introduce these data formats, and help to elucidate why sometimes, roasted potatoes are better than chips but how the opposite can be true also.****
+The first key focus of this program will introduce these data formats, and help to elucidate why sometimes, roasted potatoes are better than chips but how the opposite can be true also.
 
 ## Data Cleaning
 To be addressed
