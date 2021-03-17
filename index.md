@@ -3,9 +3,11 @@ _A Proof of Concept_
 
 Welcome to Zen! This is a program designed to help people at the beginning of their journeys into Data Science with fundamental skills to make analyses faster, easier and more robust.
 
+In this document we will highlight some of the key focus points of the program.
+
 This program will be predominantly delivered in python, but the key tools and techniques of the program are agnostic to choice of language, and hence can be implemented in whatever language you please!
 
-In this document we will highlight some of the key focus points of the program. Namely we will be focusing on:
+Namely we will be focusing on:
 
 * Data Formatting
 * Data Cleaning
