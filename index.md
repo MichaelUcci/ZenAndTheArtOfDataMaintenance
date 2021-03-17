@@ -7,9 +7,9 @@ This program will be predominantly delivered in python, but the key tools and te
 
 In this document we will highlight some of the key focus points of the program. Namely we will be focusing on:
 
-    Data Formatting
-    Data Cleaning
-    Data Visualisation
+    * Data Formatting
+    * Data Cleaning
+    * Data Visualisation
 
 For us to learn some useful techniques in data analysis, it's a good idea to first know what exactly we mean by it! This will be something we will develop more thoroughly moving forward, but a good starting place may be something like:
 _The process of considering information in a robust and systematic way, in order to better understand & explain relationships._
