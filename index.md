@@ -6,11 +6,9 @@ Welcome to Zen! This is a program designed to help people at the beginning of th
 This program will be predominantly delivered in python, but the key tools and techniques of the program are agnostic to choice of language, and hence can be implemented in whatever language you please!
 
 In this document we will highlight some of the key focus points of the program. Namely we will be focusing on:
-
     * Data Formatting
     * Data Cleaning
     * Data Visualisation
-
 For us to learn some useful techniques in data analysis, it's a good idea to first know what exactly we mean by it! This will be something we will develop more thoroughly moving forward, but a good starting place may be something like:
 _The process of considering information in a robust and systematic way, in order to better understand & explain relationships._
 <br>
