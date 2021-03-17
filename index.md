@@ -12,12 +12,13 @@ In this document we will highlight some of the key focus points of the program. 
 * Data Visualisation
 
 For us to learn some useful techniques in data analysis, it's a good idea to first know what exactly we mean by it! This will be something we will develop more thoroughly moving forward, but a good starting place may be something like:
+
 _The process of considering information in a robust and systematic way, in order to better understand & explain relationships._
-<br>
+
 Evidently, if we want our _data analysis_ to be useful and have significant impacts, the two most important words in this definition become "robust" and "systematic". Hence, the key goal of this program is try to build framework which allows for systematic and robust ways of thinking.
-<br>
+
 With this in mind, let us get onto the good stuff! The following sections give a flavour of the key concepts and ideas moving forward.
-<br>
+
 ## Data Formatting
 To be addressed
 <br>
