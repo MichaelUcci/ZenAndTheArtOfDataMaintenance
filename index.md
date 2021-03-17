@@ -35,3 +35,7 @@ In Data-Vis, central problem is of course "How do I communicate (insert cool fac
 Of course, in order to answer this problem we need to have a good understanding of the tool kit we have access to when solving the problem! After all, if our problem was a leaking faucet, our time would likely be wasted hitting it with a hammer if we have a perfectly good shifting spanner in our back pocket. 
 
 As you may have deduced by now, this section of the course is going to introduce and help you understand the visualisation toolkit to help you effectively communicate your science!
+
+Hopefully this has given you a taste of _Zen and the Art of Data Maintenance_, and we'll see you in the future!
+
+If you have any queries and/or suggestions about the program or otherwise, don't hesitate to get in touch at michael.ucci@gmail.com.
