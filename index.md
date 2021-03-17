@@ -22,11 +22,17 @@ Evidently, if we want our _data analysis_ to be useful and have significant impa
 With this in mind, let us get onto the good stuff! The following sections give a flavour of the key concepts and ideas moving forward.
 
 ## Data Formatting
-To be addressed
-<br>
+Data sets are like potatoes, insofar as they are both awesome and they are both full of complex structures that are useful for us as people. 
+
+Further to the point, imagine some divine existence one day you were given the gift of some potatoes each day. Now, while this may well sound like an ideal world, the complication is that you don't know what form your potatoes may come in. You may receive your potatoes raw, boiled, roasted, fried, mashed, as chips or as wedges etc. Now don't get me wrong potatoes in all forms are brilliant, but depending on your carbohydrate-oriented needs some potatoes can be more useful than others.
+
+Data sets in a similar way, come in all shapes, sizes and forms - or formats as we'll call them. While all brilliant are in their own right, some formats are more useful than others based on our investigative needs. There is a vast array of data formats which, when used effectively can help our investigation become more robust and systematic. 
+
+The first key focus of this program will introduce these data formats, and help to elucidate why sometimes, roasted potatoes are better than chips but how the opposite can be true also.****
+
 ## Data Cleaning
 To be addressed
-<br>
+
 ## Data Visualisation
 I like to think of data visualisation as a problem solving process, where I have a problem to solve and tools to solve it with. As when solving _any_ difficult, important problem there tends to be a central, over-arching problem which we look to reframe and break down into smaller, easier to solve problems!
 
