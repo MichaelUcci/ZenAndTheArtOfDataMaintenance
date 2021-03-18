@@ -31,14 +31,25 @@ Data sets in a similar way, come in all shapes, sizes and forms - or formats as 
 The first key focus of this program will introduce these data formats, and help to elucidate why sometimes, roasted potatoes are better than chips but how the opposite can be true also.
 
 ## Data Cleaning
-To be addressed
+
+An unfortunate realisation we all experience at some point in our journeys through the world of data is that no data set is perfect. Regardless of the context, format or type of data being analysed the data is rarely (if ever) ready to be analysed out of the box. 
+
+Why is this? Well because we are humans and humans make. It wasn't until I started looking at data sets that I realised the number of ways someone can potentially express the word "Wednesday" in a questionnaire:
+* Wednesday
+* Wed
+* w
+* w-day
+* Day 3/7
+* 6/1/21
+
+To be completed
 
 ## Data Visualisation
 I like to think of data visualisation as a problem solving process, where I have a problem to solve and tools to solve it with. As when solving _any_ difficult, important problem there tends to be a central, over-arching problem which we look to reframe and break down into smaller, easier to solve problems!
 
 In Data-Vis, central problem is of course "How do I communicate (insert cool fact here)". A useful reframing of this problem however may be "What visualisation tools can I use to say (cool fact)". 
 
-Of course, in order to answer this problem we need to have a good understanding of the tool kit we have access to when solving the problem! After all, if our problem was a leaking faucet, our time would likely be wasted hitting it with a hammer if we have a perfectly good shifting spanner in our back pocket. 
+Of course, in order to break down this question further and solve the problem we need to have a good understanding of the tool kit we have access to when solving the problem! After all, if our problem was a leaking faucet, our time would likely be wasted hitting it with a hammer if we have a perfectly good shifting spanner in our back pocket. 
 
 As you may have deduced by now, this section of the course is going to introduce and help you understand the visualisation toolkit to help you effectively communicate your science!
 
