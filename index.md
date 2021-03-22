@@ -34,15 +34,16 @@ The first key focus of this program will introduce these data formats, and help 
 
 An unfortunate realisation we all experience at some point in our journeys through the world of data is that no data set is perfect. Regardless of the context, format or type of data being analysed the data is rarely (if ever) ready to be analysed out of the box. 
 
-Why is this? Well because we are humans and humans make. It wasn't until I started looking at data sets that I realised the number of ways someone can potentially express the word "Wednesday" in a questionnaire:
-* Wednesday
-* Wed
+Why is this? Well because we are humans and humans maik mistaiks. It wasn't until I started looking at data sets that I realised the number of ways someone can potentially express the word "Wednesday" in a questionnaire:
+* wednesday
+* wed
 * w
 * w-day
-* Day 3/7
 * 6/1/21
 
-To be completed
+And these aren't even taking letter casing into account! This is one example of a myriad of issues including missing data, erroneous observations and data typing issues that are cause for concern when we carry out analyses.
+
+This section of the program will introduce a set of principles and techniques to address these issues in a way that satisfies our _robust and systematic_ requirements.
 
 ## Data Visualisation
 I like to think of data visualisation as a problem solving process, where I have a problem to solve and tools to solve it with. As when solving _any_ difficult, important problem there tends to be a central, over-arching problem which we look to reframe and break down into smaller, easier to solve problems!
