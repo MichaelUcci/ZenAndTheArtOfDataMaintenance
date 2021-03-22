@@ -48,7 +48,7 @@ This section of the program will introduce a set of principles and techniques to
 ## Data Visualisation
 I like to think of data visualisation as a problem solving process, where I have a problem to solve and tools to solve it with. As when solving _any_ difficult, important problem there tends to be a central, over-arching problem which we look to reframe and break down into smaller, easier to solve problems!
 
-In Data-Vis, central problem is of course "How do I communicate (insert cool fact here)". A useful reframing of this problem however may be "What visualisation tools can I use to say (cool fact)". 
+In Data-Vis, central problem is of course "How do I communicate (insert cool fact here)". A useful reframing of this problem however may be "What visualisation tools can I use to say (aforementioned cool fact)". 
 
 Of course, in order to break down this question further and solve the problem we need to have a good understanding of the tool kit we have access to when solving the problem! After all, if our problem was a leaking faucet, our time would likely be wasted hitting it with a hammer if we have a perfectly good shifting spanner in our back pocket. 
 
